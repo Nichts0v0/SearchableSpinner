@@ -1,3 +1,6 @@
+# 更改内容
+添加了一个继承自SearchableSpinner的类，增加方法clearSelection用于清除当前选项，十分的不优雅（反正是自用）
+
 # SearchableSpinner 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SearchableSpinner-green.svg?style=true)](https://android-arsenal.com/details/1/3272)
 
