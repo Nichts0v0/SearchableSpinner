@@ -24,7 +24,7 @@ public class SearchableSpinner extends Spinner implements View.OnTouchListener,
     private List _items;
     private SearchableListDialog _searchableListDialog;
 
-    public boolean _isDirty;
+    private boolean _isDirty;
     private ArrayAdapter _arrayAdapter;
     private String _strHintText;
     private boolean _isFromInit;
